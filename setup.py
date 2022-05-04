@@ -10,7 +10,7 @@ setuptools.setup(
   url = 'https://github.com/Dwarf-workroom/testoutput/new/main',
   install_requires = ['pytest'],
   long_description = 'oss development...',
-  long_description = 'text/markdown',
+  long_description_content_type = 'text/markdown',
   classifiers = [
     "programming Language :: Python :: 3",
     "Operating System :: OS Independent",
