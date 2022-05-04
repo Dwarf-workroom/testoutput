@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-  include_pakage_data = True
+  include_pakage_data = True ,
   name= 'testtest1234',
   version='1.0.0',
   description='oss-dev my calculator 001',
@@ -15,4 +15,4 @@ setuptools.setup(
     "programming Language :: Python :: 3",
     "Operating System :: OS Independent",
     ],
-  }
+)
